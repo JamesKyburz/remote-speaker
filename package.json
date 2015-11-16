@@ -1,0 +1,26 @@
+{
+  "name": "remote-speaker",
+  "description": "remote speaker",
+  "keywords": "remote speaker pcm soundify",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jameskyburz/remote-speaker.git"
+  },
+  "author": {
+    "name": "James Kyburz",
+    "email": "james.kyburz@gmail.com"
+  },
+  "main": "index.js",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index",
+    "prepublish": "standard"
+  },
+  "dependencies": {
+    "speaker": "0.2.6"
+  },
+  "devDependencies": {
+    "standard": "5.3.1"
+  }
+}
