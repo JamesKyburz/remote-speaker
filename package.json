@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "speaker": "0.2.6",
-    "through2": "^2.0.0"
+    "through2": "^2.0.1"
   },
   "devDependencies": {
     "standard": "6.0.4"
