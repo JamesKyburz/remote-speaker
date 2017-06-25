@@ -1,5 +1,7 @@
 # remote-speaker
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/JamesKyburz/remote-speaker.svg)](https://greenkeeper.io/)
+
 streaming pcm http server
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
